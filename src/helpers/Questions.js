@@ -1,10 +1,10 @@
 export const Questions = [
     {
       prompt: "What is my name?",
-      optionA: "Harshitha",
-      optionB: "Geethanjali",
-      optionC: "Harish",
-      optionD: "Shivpriya",
+      optionA: "Aruna",
+      optionB: "Kumari",
+      optionC: "Priyanka",
+      optionD: "Puneeth",
       asnwer: "optionA",
     },
     {
